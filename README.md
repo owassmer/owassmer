@@ -18,4 +18,4 @@ A prospecting agent helps brokers and advisers find businesses that may need to 
 
 ---
 
-[LinkedIn](https://www.linkedin.com/in/owen-wassmer-b0668b20b/) · [owassmer1@gmail.com](mailto:owassmer1@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/owen-wassmer/) · [owassmer1@gmail.com](mailto:owassmer1@gmail.com)
