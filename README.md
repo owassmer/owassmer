@@ -1,21 +1,21 @@
-### Owen Wassmer
-Early-career AI / software engineer in New York.
+# Owen Wassmer
 
-I care about systems that ship and can explain what they did not prove. Most of my recent work sits at the intersection of LLM applications, evaluation, and production infrastructure.
+I studied financial mathematics at the University of Virginia and now live in New York. I built an investor research platform at QED Investors and an AI system that develops and tests lending policies at Second Order Solutions.
 
-**What I tend to build**
-- Production backend services (Node, Python, AWS)
-- Agent / tool-using workflows with explicit boundaries
-- Evaluation harnesses where models advise and code scores
+## Selected projects
 
-**Selected public work**
-- [agent-evaluation-lab](https://github.com/owassmer/agent-evaluation-lab) — deterministic scoring for agent tasks; held-out / out-of-template reporting; failures are structured, not vibes
-- [rain-import-helper](https://github.com/owassmer/rain-import-helper) — Mac app for shop staff; messy Excel → validated POS import CSVs; final conversion is local and fail-closed
-- [serverless-data-pipeline-case-study](https://github.com/owassmer/serverless-data-pipeline-case-study) — clean-room model of event-driven collection: queues, idempotency, retries, dead letters
-- [venture-signals](https://github.com/owassmer/venture-signals) — static VC network explorer on synthetic data (UI + graph analytics, no real investor records)
+### AI portfolio risk analyst
 
-**Background**
-- QED Investors — production investor-intelligence services still running after the internship
-- UVA — B.A. Financial Mathematics, graduated May 2026
+An AI analyst starts with your holdings and researches the events that could move your portfolio. It draws on company filings, news, and prediction markets to estimate how likely those events are, then models how much you could gain or lose under each outcome.
 
-[LinkedIn](https://www.linkedin.com/in/owen-wassmer-b0668b20b/) · owassmer1@gmail.com
+[Demo](https://owassmer.github.io/event-risk/) · [Code](https://github.com/owassmer/event-risk)
+
+### Sales prospecting from public records
+
+A prospecting agent helps brokers and advisers find businesses that may need to hedge against revenue losses. It searches public records for companies whose sales depend on an outcome outside their control and estimates how much revenue is at stake. For each prospect, it prepares a proposed deal in HubSpot with supporting evidence, a suggested contact, and a draft message.
+
+[Demo](https://owassmer.github.io/distress-signals/) · [Code](https://github.com/owassmer/distress-signals)
+
+---
+
+[LinkedIn](https://www.linkedin.com/in/owen-wassmer-b0668b20b/) · [owassmer1@gmail.com](mailto:owassmer1@gmail.com)
